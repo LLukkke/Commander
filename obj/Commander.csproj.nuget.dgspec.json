@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/haifeng.zhu/Documents/Code/Commander/Commander.csproj": {}
+    "/Users/haifeng.zhu/Documents/Code/github.com/LLukkke/Commander/Commander.csproj": {}
   },
   "projects": {
-    "/Users/haifeng.zhu/Documents/Code/Commander/Commander.csproj": {
+    "/Users/haifeng.zhu/Documents/Code/github.com/LLukkke/Commander/Commander.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/haifeng.zhu/Documents/Code/Commander/Commander.csproj",
+        "projectUniqueName": "/Users/haifeng.zhu/Documents/Code/github.com/LLukkke/Commander/Commander.csproj",
         "projectName": "Commander",
-        "projectPath": "/Users/haifeng.zhu/Documents/Code/Commander/Commander.csproj",
+        "projectPath": "/Users/haifeng.zhu/Documents/Code/github.com/LLukkke/Commander/Commander.csproj",
         "packagesPath": "/Users/haifeng.zhu/.nuget/packages/",
-        "outputPath": "/Users/haifeng.zhu/Documents/Code/Commander/obj/",
+        "outputPath": "/Users/haifeng.zhu/Documents/Code/github.com/LLukkke/Commander/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/haifeng.zhu/.nuget/NuGet/NuGet.Config"
